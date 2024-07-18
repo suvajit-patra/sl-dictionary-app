@@ -1,6 +1,6 @@
 # Sign Language Dictionary Application
 
-Welcome to the Sign Language (ISL) Dictionary Application! This project aims to provide a comprehensive dictionary of Sign Language, enabling users to learn and reference ISL easily. This README file will guide you through the features, installation and usage for the application.
+Welcome to the Sign Language (SL) Dictionary Application! This project aims to provide a comprehensive dictionary of Sign Language, enabling users to learn and reference ISL easily. This README file will guide you through the features, installation and usage for the application.
 
 ![ISL Dictionary](misc/isl_dict.png)
 
@@ -15,7 +15,7 @@ Welcome to the Sign Language (ISL) Dictionary Application! This project aims to 
 
 ## Features
 
-- **Comprehensive ISL Dictionary**: Access 2002 words and their corresponding signs in Sign Language.
+- **SL Dictionary**: Access words and their corresponding signs in Sign Language.
 - **Video Demonstrations**: View video demonstrations of each sign for better understanding and learning.
 - **Search Functionality**: Quickly find specific signs using the search feature which allows prefix search also.
 - **Speed and Frame Check**: See sign videos in different speed and have feature to check frame by frame.
@@ -23,11 +23,11 @@ Welcome to the Sign Language (ISL) Dictionary Application! This project aims to 
 
 ## Installation
 
-To run the ISL Dictionary Application locally, follow these steps:
+To run the SL Dictionary Application locally, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/suvajit790/sl-dictionary-app.git
+    git clone https://github.com/suvajit-patra/sl-dictionary-app.git
     cd sl-dictionary-app
     ```
 
@@ -40,7 +40,7 @@ To run the ISL Dictionary Application locally, follow these steps:
     ```
 
 3. **Download Data**:
-    Download the data from [here](https://drive.google.com/file/d/1LERX4tOWdBjIRuEV-XJOTeX2EyPDBQFG/view?usp=sharing) and put the `videos` and `words.txt` in the data folder.
+    Download the Indian sign language data from [here](https://drive.google.com/file/d/1LERX4tOWdBjIRuEV-XJOTeX2EyPDBQFG/view?usp=sharing) and put the `videos` and `words.txt` in the `data` folder.
 
 4. **Start the Application**:
     ```
