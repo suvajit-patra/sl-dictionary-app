@@ -1,6 +1,6 @@
 # Sign Language Dictionary Application
 
-Welcome to the Sign Language (SL) Dictionary Application! This project aims to provide a comprehensive dictionary of Sign Language, enabling users to learn and reference ISL easily. This README file will guide you through the features, installation and usage for the application.
+Welcome to the Sign Language (SL) Dictionary Application! This project aims to provide a comprehensive dictionary of Sign Language, enabling users to learn and reference SL easily. This README file will guide you through the features, installation and usage for the application.
 
 ![ISL Dictionary](misc/isl_dict.png)
 
