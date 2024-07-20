@@ -11,7 +11,6 @@ Welcome to the Sign Language (SL) Dictionary Application! This project aims to p
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 
@@ -58,10 +57,6 @@ Once the application is running, you can:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-We would like to thank the FDMSE, RKMVERI for their valuable resources and support.
 
 
 ---
