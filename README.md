@@ -4,7 +4,7 @@ Welcome to the Sign Language (SL) Dictionary Application! This project aims to p
 
 ![ISL Dictionary](misc/isl_dict.png)
 
-**Web version of this application is available [Here](cs.rkmvu.ac.in/~isl).**
+**Web version of this application is available [Here](https://cs.rkmvu.ac.in/~isl).**
 
 ## Table of Contents
 - [Features](#features)
